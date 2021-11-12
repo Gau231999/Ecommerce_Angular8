@@ -1,0 +1,29 @@
+.slide{
+    width: 100%;
+}
+
+.icons{
+    text-align: center;
+    margin-top:2%;
+}
+    .fa-truck,.fa-star,.fa-phone-volume{
+        color:rgb(255, 255, 255);
+        padding-top:20% ;
+        padding-bottom:20%;
+    }
+.whole-card{
+    border: none;
+}
+    .card-icon{
+        background-color:blanchedalmond
+    }
+    .truck{
+        background: #f894f0;
+    }
+    .star{
+        background: #f5d95e;
+    }
+    .support{
+        background: #95e7fc;
+    }
+    
