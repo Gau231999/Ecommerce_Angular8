@@ -1,0 +1,60 @@
+thead{
+    background-color:#56aa35 ;
+    color: white;
+    text-align: center;
+}
+
+tbody{
+    text-align: center;
+}
+
+.add{
+    border-width:0.1px;
+    background-color:#56aa35de;
+    color: white;
+    font-weight: bolder;
+    border: w;
+}
+
+.minus{
+    border-width:0.1px;
+    background-color:#f53d1c;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    border: w;
+}
+
+.btnclose{
+    border-width:0.1px;
+    background-color: rgb(253, 52, 52);
+    color: white;
+    font-weight:300;
+}
+
+.fixTableHead {
+    overflow-y: auto;
+    height: 500px;
+  }
+  .fixTableHead thead th {
+    position: sticky;
+    top: 0;
+    z-index: 99;
+  }
+  table {     
+    width: 100%;
+  }
+  td {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-weight:600;
+  }
+  th {
+    background: #56aa35;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+
+.btn-warning{
+  font-weight: bold;
+  color: white;
+}

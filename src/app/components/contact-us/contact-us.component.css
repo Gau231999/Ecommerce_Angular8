@@ -1,0 +1,27 @@
+.map-container-3{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-container-3 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.col-sm-6{
+    background-color: rgb(231, 231, 231);
+}
+
+.btn-success{
+    width: 100%;
+    font-weight: bold;
+    background-color:#56aa35de;
+}
+
+form{
+    margin-top:5%;
+}
